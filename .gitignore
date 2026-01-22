@@ -1,0 +1,51 @@
+# Arduino IDE
+*.ino.c
+*.ino.cpp
+*.ino.cpp.o
+*.ino.d
+*.ino.elf
+*.ino.eep
+*.ino.hex
+applet/
+build/
+.DS_Store
+Serial_output.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# ESP32 specific
+.pio/
+.vscode/
+.venv/
+.env
+*.elf
+*.bin
+
+# IDE
+.idea/
+.settings/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+build/
+temp/
+logs/
