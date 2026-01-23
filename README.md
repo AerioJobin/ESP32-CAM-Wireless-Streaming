@@ -29,7 +29,8 @@ Key focus areas include:
 
 ## System Preview
 
-![Stream Preview](ESP32-CAM-Wireless-Streaming/images/stream-preview.gif)
+![Circuit Diagram](ESP32-CAM-Wireless-Streaming/images/circuit%20diagram.png)
+![Test Image Sample](ESP32-CAM-Wireless-Streaming/images/testimage.jpg)
 
 Additional views:
 - Wiring: `ESP32-CAM-Wireless-Streaming/images/wiring-diagram.png`
